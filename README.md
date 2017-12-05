@@ -5,9 +5,9 @@
 
 ## Installation
 
-Öffnen sie die Konsole und geben sie ´javac HelloWorld.java´ in der Konsole ein.
+Öffnen sie die Konsole und geben sie ´´´javac HelloWorld.java´´´ in der Konsole ein.
 
 ## Ausführen
 
 * Konsole
-* ´java HelloWorld´
+* ´´´java HelloWorld´´´
